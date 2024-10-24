@@ -1,4 +1,4 @@
 # power_bi
-# Estudos de Power BI 
-# DIO With NTT Data
-# Bootcamp PYTHON
+- Repositório relacionado a formação de Power BI Analyst.
+* DIO With NTT Data
+* Bootcamp PYTHON
